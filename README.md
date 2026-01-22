@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm [Your Name] 👋
 
-<!--
-**ffhakim/ffhakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Master's/PhD Student in Biotechnology** based in **Osaka, Japan**. 
+I bridge the gap between "Wet Lab" Synthetic Biology and "Dry Lab" Computational Analysis. My research focuses on **in vivo continuous evolution** and **non-natural amino acid incorporation**.
 
-Here are some ideas to get you started:
+#### 🧬 What I do:
+- **Synthetic Biology:** Engineering non-natural protein translation systems.
+- **Bioinformatics:** Building automated bash/python pipelines for NGS data (SRA -> QC -> Analysis).
+- **Data Science:** Applied machine learning for biological datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack:
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+- **Biology:** Biopython, Pandas, Matplotlib, SRA-Toolkit, Samtools.
+- **Tools:** Linux (WSL), Git, VS Code.
+
+#### 🔭 Current Project:
+**Evolution Analysis Pipeline**
+A custom tool to detect non-natural amino acid incorporation in deep-sequencing data from PACE (Phage-Assisted Continuous Evolution) experiments.
+- *Status:* In active development for Master's thesis.
+
+#### 📫 Contact:
+- [LinkedIn](https://www.linkedin.com/in/mfahmihakim/)
+- [Email](mailto:u819555c@ecs.osaka-u.ac.jp)
