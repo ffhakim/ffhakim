@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Hakim 👋
 
 I am a **Master's Student in Biotechnology** based in **Osaka, Japan**. 
 I bridge the gap between "Wet Lab" Synthetic Biology and "Dry Lab" Computational Analysis. My research focuses on **in vivo continuous evolution** and **non-natural amino acid incorporation**.
