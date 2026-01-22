@@ -1,6 +1,6 @@
 ### Hi there, I'm [Your Name] 👋
 
-I am a **Master's/PhD Student in Biotechnology** based in **Osaka, Japan**. 
+I am a **Master's Student in Biotechnology** based in **Osaka, Japan**. 
 I bridge the gap between "Wet Lab" Synthetic Biology and "Dry Lab" Computational Analysis. My research focuses on **in vivo continuous evolution** and **non-natural amino acid incorporation**.
 
 #### 🧬 What I do:
